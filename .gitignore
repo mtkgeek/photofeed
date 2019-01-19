@@ -5,6 +5,8 @@ __pycache__/
 
 #database
 db.sqlite3
+settings.ini
+cloud_sql_proxy.exe
 
 # C extensions
 *.so
